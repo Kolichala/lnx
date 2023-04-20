@@ -9,7 +9,7 @@
 
 
 <h1>Commit 3, Commit 4, Commit 5, Commit 6</h1>
- <h1>Commit 7</h1>
+ <h1>Commit 7, Commit 8</h1>
 
 
 <br />
